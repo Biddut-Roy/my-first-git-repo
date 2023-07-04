@@ -1,3 +1,9 @@
+
+h2{
+    text-align: center;
+    display: inline-flexbox;
+    color: darkblue;
+}
 .try{
     margin: 0;
     padding: 0;
@@ -8,5 +14,35 @@
     border: 5px solid blueviolet;
     box-shadow: 5px 8px 10px;
     border-radius: 10px 14px 25px;
+
+}
+.github{
+    display: flex;
+}
+#git{
+    border: 10px solid saddlebrown;
+    list-style-type: none;
+    padding: 5px;
+    margin-left:15vw ;
+    border-radius: 30px;
+}
+#A{
+    text-align: center;
+    color: brown;
+    font-size: larger;
+    
+    
+
+}
+#push{
+    border: 10px solid saddlebrown;
+    list-style-type: none;
+    margin-left:20vw;
+    border-radius: 30px 30px 5px;
+
+}
+#gitp{
+    text-align: center;
+
 
 }
