@@ -9,26 +9,30 @@ h2{
     padding: 0;
     display: block;
     text-align: center;
+    font-style: italic;
+    background-color: #FF0000;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
     border: 5px solid blueviolet;
-    box-shadow: 5px 8px 10px;
     border-radius: 10px 14px 25px;
+    color: yellow;
 
 }
 .github{
     display: flex;
+    justify-content: space-between;
+    background-color: dimgray;
+    border-radius: 10px;
+    color: chartreuse;
 }
 #git{
     border: 10px solid saddlebrown;
     list-style-type: none;
     padding: 5px;
-    margin-left:15vw ;
     border-radius: 30px;
 }
 #A{
     text-align: center;
-    color: brown;
+    
     font-size: larger;
     
     
